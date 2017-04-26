@@ -36,7 +36,7 @@ class ApiExceptionHandler implements ExceptionHandlerInterface
             }
         }
 
-        throw new \WalmartApiClient\Exception\ApiBadRequestException('Bad Request', 400);
+        throw new \WalmartApiClient\Exception\ApiBadRequestException($exc->getMessage(), $exc->getCode());
     }
 
 
