@@ -13,7 +13,7 @@
         {
             "name": "Zachery Stuart",
             "email": "zachery.a.stuart@gmail.com"
-        },
+        }
     ],
     "require": {
         "guzzlehttp/guzzle": "^6.2"
