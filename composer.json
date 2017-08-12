@@ -1,5 +1,5 @@
 {
-    "name": "gadoma/walmart-api-php-client",
+    "name": "zacherystuart/walmart-api-php-client",
     "type": "library",
     "license": "MIT",
     "description": "Walmart Open API PHP client",
@@ -9,7 +9,11 @@
             "name": "Piotr Gadzinski",
             "email": "dev@gadoma.com",
             "homepage": "https://github.com/Gadoma"
-        }
+        },
+        {
+            "name": "Zachery Stuart",
+            "email": "zachery.a.stuart@gmail.com"
+        },
     ],
     "require": {
         "guzzlehttp/guzzle": "^6.2"
